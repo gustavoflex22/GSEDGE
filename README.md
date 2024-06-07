@@ -1,4 +1,9 @@
 # GSEDGE
+# RMS
+Vinicius Issa Gois Rm 553814
+Vinicius Caetano Rm552904
+Gustavo Manganelli Felex rm554242
+
 WOKWI- projeto de edge
 Descrição do Projeto
 O projeto é baseado no controle de um servo motor com um joystick e o uso de um sensor ultrassônico para a determinação de distância. O LED indica a magnitude da distância medida pelo sensor, pois ele acendem, respectivamente, fornecendo feedback visual. O servo motor é controlado pela posição do joystick, e a distância dos objetos é medida pelo sensor ultrassônico.
